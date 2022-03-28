@@ -18,6 +18,12 @@ Procedures / Results
 
 As I mentioned previously this second project involves new concepts for me in an android studio, so I needed to see some tutorial to help me to develop some of these tasks to understand a little more how RecyclerView works. For this project I created for class and four movies, after that I started to connect my class and create my layout, in main class I created arrays, arrays to input certain information's such as the name of the movies and pictures. To do the second part I got some issues, for example, I find it very hard to find a way to set up the seats and the seats remaining as well as the information on the new activity, it took a lot of time to find a solution for it works pretty well. I could find a solution to implements the information in my array, and to put the seats remaining, but some procedures were not working as it should work, for example: the section that I put to select seat it is working but not properly as I would want, I got some issues, and then I did some research but could not find a way to fix it, it was the hardest part of the assignment but I could work in my cold and I could do some improvements, and then I find the right solutions my project works. 
 
+ Conclusion: 
+
+This was a challenge project where we are required to put everything that we have Learned so far. On this activity spatially android studio, we have to have good research and try to minimize all issues that we face, when we try to develop our project. This project was done in Kotlin language where the developer can find some contents on some particular web sites to help to create each section. All this work mentioned in this report was based in a recyclerView card where the developer chose movie pictures and collected pieces of information for this assessment. 
+
+ 
+
  
 
  
