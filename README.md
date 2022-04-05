@@ -8,7 +8,7 @@ Abstract:
 
 On this lab we are required to work and apply our knowledge in recycler view, where it will be creating a recycler card view and details about at least four movies. Some of the requirements such as number of seats and seats remaining, and its details will be reported here. 
 
-Abstract: 
+Introduction: 
 
 Recycler view is a good way to simplify our project in our mobile app, but what is a RecyclerView in Android Studio? RecyclerView is the View Group that contains the views corresponding to your data. It’s a view itself, so you add RecyclerView into your layout the way you would add any other UI element. After the view holder is created, the RecyclerView binds it to its data. You define the view holder by extending RecyclerView. In Recyclerview you can work with arrays making a list of pictures and names, this is an easier way to develop our projects. In this project we need to work on our App very carefully, once that it involves a lot of new concepts to reach our goals, so I will talk a little more with more details about this project. 
 
