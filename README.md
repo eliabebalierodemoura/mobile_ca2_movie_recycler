@@ -23,7 +23,8 @@ As I mentioned previously this second project involves new concepts for me in an
 This was a challenge project where we are required to put everything that we have Learned so far. On this activity spatially android studio, we have to have good research and try to minimize all issues that we face, when we try to develop our project. This project was done in Kotlin language where the developer can find some contents on some particular web sites to help to create each section. All this work mentioned in this report was based in a recyclerView card where the developer chose movie pictures and collected pieces of information for this assessment. 
 
  
-
+Link for the video on youtube= 
+https://www.youtube.com/watch?v=5K4Umc4qIaA&feature=youtu.be
  
 
  
